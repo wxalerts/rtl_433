@@ -294,6 +294,7 @@ add_library(r_433 STATIC
     devices/wssensor.c
     devices/wt0124.c
     devices/wt450.c
+    devices/wxlink.c
     devices/x10_rf.c
     devices/x10_sec.c
     devices/yale_hsa.c
